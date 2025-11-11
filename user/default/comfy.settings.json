@@ -1,5 +1,10 @@
 {
     "Comfy.Validation.Workflows": false,
     "Comfy.ColorPalette": "github"
+<<<<<<< HEAD
     "pysssss.ImageFeed.Location": "hidden"
 }
+=======
+    "pysssss.ImageFeed.Location": "hidden",
+}
+>>>>>>> 281cdcf76e74f230edf3f182963058f966ec75c2
